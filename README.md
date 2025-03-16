@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JustRumble
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me
-    - Discord: rumble.py
+    - Discord: pyrumble
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Cierren HyCraft
 
